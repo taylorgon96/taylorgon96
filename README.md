@@ -18,7 +18,7 @@
 
 ### **📫 Kaggle and Tableau**
 
-- [Kaggle Account](www.kaggle.com/taylorgonzalez)
+- [Kaggle Account](https://www.kaggle.com/taylorgonzalez/code)
 
 - [Tableau Profile](https://public.tableau.com/app/profile/taylor.gonzalez7364)
 
