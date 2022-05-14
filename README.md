@@ -1,25 +1,26 @@
-## 🫀 Hi, I’m @taylorgon96
+## Hi, I’m Taylor & this is my Github.
+### **🫀 About**
+- Professional Google Cloud Architect with a passion for Data Science.
+- Learned many skills through taking certificates, reading books, and working on projects.
 
-
-
-## 🤓 Personal Projects 
+### **🤓 Personal Projects**
 
   - Python 
 
   - Machine Learning 
 
 
-## 🫡 Guided Projects
+### **🫡 Guided Projects**
 
   - Machine Learning 
 
   - SQL
 
-## 📫 Kaggle and Tableau
+### **📫 Kaggle and Tableau**
 
-- [Kaggle](www.kaggle.com/taylorgonzalez)
+- [Kaggle Account](www.kaggle.com/taylorgonzalez)
 
-- [Tableau](https://public.tableau.com/app/profile/taylor.gonzalez7364)
+- [Tableau Profile](https://public.tableau.com/app/profile/taylor.gonzalez7364)
 
 
 <!---
