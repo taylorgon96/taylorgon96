@@ -5,7 +5,7 @@
 
 ### **🤓 Personal Projects**
 
-  - Python 
+ - [Diamond Price Prediction XGBOOST](https://github.com/taylorgon96/Personal-Projects-/blob/main/Diamonds%20Price%20Prediction%20XGBOOST.ipynb)
 
   - Machine Learning 
 
