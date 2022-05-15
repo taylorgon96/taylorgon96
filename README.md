@@ -6,15 +6,16 @@
 ### **🤓 Personal Projects**
 
  - [Diamond Price Prediction XGBOOST](https://github.com/taylorgon96/Personal-Projects-/blob/main/Diamonds%20Price%20Prediction%20XGBOOST.ipynb)
-
-  - Machine Learning 
-
+ - [Medical Cost Prediction Linear Regression](https://github.com/taylorgon96/Personal-Projects-/blob/main/Medical%20Cost%20Predictions%20Linear%20Regression.ipynb)
+- [Social Network Ad Predictions Random Forest](https://github.com/taylorgon96/Personal-Projects-/blob/main/Social%20Network%20Ad%20Predictions%20Random%20Forest.ipynb)
+- [Web Scraping NFL Player Stats Python](https://github.com/taylorgon96/Personal-Projects-/blob/main/Web%20Scraping%20NFL%20Player%20Stats%20.ipynb) 
 
 ### **🫡 Guided Projects**
 
-  - Machine Learning 
-
-  - SQL
+- [Customer Segmentation PCA KMC](https://github.com/taylorgon96/Guided-Projects-/blob/main/Customer%20Segmentation%20PCA%20KMC.ipynb)
+- [Convolutional Neural Network Keras](https://github.com/taylorgon96/Guided-Projects-/blob/main/Convolutional%20Neural%20Network%20Keras.ipynb)
+- [Predicting Salaries with Decision Trees](https://github.com/taylorgon96/Guided-Projects-/blob/main/Predicting%20Salaries%20with%20Decision%20Trees.ipynb)
+- [Data Cleaning with Python](https://github.com/taylorgon96/Guided-Projects-/blob/main/Data%20Cleaning%20with%20Python.ipynb)
 
 ### **📫 Kaggle and Tableau**
 
