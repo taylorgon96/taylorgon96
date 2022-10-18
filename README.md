@@ -9,6 +9,8 @@
  - [Medical Cost Prediction Linear Regression](https://github.com/taylorgon96/Personal-Projects-/blob/main/Medical%20Cost%20Predictions%20Linear%20Regression.ipynb)
 - [Social Network Ad Predictions Random Forest](https://github.com/taylorgon96/Personal-Projects-/blob/main/Social%20Network%20Ad%20Predictions%20Random%20Forest.ipynb)
 - [Restaurant Reviews Sentiment Analysis](https://github.com/taylorgon96/Personal-Projects-/blob/main/Restaurant%20Reviews%20Sentiment%20Analysis%20NLP.ipynb) 
+- [Mushroom Classification LogisticRegression Pipeline](https://github.com/taylorgon96/Personal-Projects-/blob/main/Mushroom%20Classification%20LogisticRegression%20.ipynb)
+
 
 ### **🫡 Guided Projects**
 
